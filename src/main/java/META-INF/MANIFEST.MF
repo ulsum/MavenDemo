@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.ulsum.demo1.PinYinTester
+Class-Path: protobuf-java-3.11.4.jar mysql-connector-java-8.0.23.jar pin
+ yin4j-2.5.1.jar
+
